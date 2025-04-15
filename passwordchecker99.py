@@ -5,7 +5,7 @@ import re
 import streamlit as st
 
 # page ki styling 
-st.set_page_config(page_title="Password Strength Checker By Ayan Majeed" page_icon="🔑", layout="centered")
+st.set_page_config(page_title="Password Strength Checker By Ayan Majeed", page_icon="🔑", layout="centered")
 
 # CSS
 st.markdown(""" 
